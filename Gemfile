@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
-gem 'github-pages'
+gem 'github-pages', '>= 192'
 gem 'html-proofer'
-gem 'jekyll'
+gem 'jekyll', '>= 3.7.4'
 gem 'percy-cli'
 gem 'fastimage'
